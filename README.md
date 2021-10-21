@@ -4,9 +4,9 @@
 
 Hey hi 👋 , 
 <br />
-i'm Nirvik, a passionate self-taught full stack web developer and a freelance software engineer based in Sydney, Australia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+i'm Nirvik, a passionate full stack web developer and software engineer based in Sydney, Australia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happens through open-source.
 
 
   
@@ -30,7 +30,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript         9 hrs 35 mins   ███████████████████▓░░░░░   78.23 % 
+JAVA         9 hrs 35 mins   ███████████████████▓░░░░░   78.23 % 
 JavaScript   2 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.77 % 
 ```
 <!--END_SECTION:waka-->
